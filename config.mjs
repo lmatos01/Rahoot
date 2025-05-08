@@ -1,4 +1,4 @@
-export const WEBSOCKET_PUBLIC_URL = "http://34.173.64.212:5505/"
+export const WEBSOCKET_PUBLIC_URL = "https://evo-trivia.5lbnb4.easypanel.host:5505/"
 export const WEBSOCKET_SERVER_PORT = 5505
 
 const QUIZZ_CONFIG = {
